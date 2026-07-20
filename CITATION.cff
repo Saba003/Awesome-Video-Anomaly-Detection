@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite our survey."
+title: "Deep Learning for Video Anomaly Detection: Survey Resources"
+type: dataset
+authors:
+  - family-names: Ramzan
+    given-names: Saba
+  - family-names: Muhammad
+    given-names: Rashid
+  - family-names: Hakim
+    given-names: Ziani
+repository-code: "https://github.com/USERNAME/REPOSITORY"
+license: MIT

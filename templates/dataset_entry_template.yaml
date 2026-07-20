@@ -1,0 +1,17 @@
+name: ""
+year: 2026
+domain: ""
+scenes: ""
+videos: ""
+frames: ""
+resolution: ""
+fps: ""
+annotation: []
+supervision_supported: []
+audio: false
+synthetic: false
+open_set: false
+download_url: ""
+paper_url: ""
+license: ""
+notes: ""

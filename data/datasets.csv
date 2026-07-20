@@ -1,0 +1,9 @@
+dataset,year,domain,scenes,annotation,supervision_supported,notes
+UCSD Ped1/Ped2,2010,surveillance,2,frame-level;pixel-level,semi-supervised;unsupervised,fixed-camera pedestrian scenes
+Avenue,2013,surveillance,1,frame-level;bounding-box,semi-supervised;unsupervised,campus avenue
+ShanghaiTech,2017,surveillance,13,frame-level;pixel-level,semi-supervised;unsupervised,multi-scene benchmark
+UCF-Crime,2018,surveillance,multi-scene,video-level train;temporal test,weakly-supervised,large-scale real-world crime videos
+XD-Violence,2020,multimodal surveillance,multi-source,video-level train;temporal test,weakly-supervised,video and audio
+UBnormal,2022,synthetic surveillance,multi-scene,pixel-level,supervised;open-set,open-set anomaly classes
+RareAnom,2023,multi-source video,multi-source,temporal,multiple,rare severe anomalies
+MSAD,2024,surveillance,14,frame-level,unsupervised;weakly-supervised,multi-scenario benchmark

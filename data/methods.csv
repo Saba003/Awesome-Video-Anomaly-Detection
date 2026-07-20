@@ -1,0 +1,6 @@
+method_family,supervision,core_signal,strength,limitation
+Reconstruction,semi-supervised,reconstruction error,simple and label-efficient,may reconstruct anomalies well
+Prediction,semi-supervised,future-frame error,captures temporal regularity,sensitive to motion complexity
+MIL,weakly-supervised,video-level ranking,low annotation cost,weak temporal localization
+Transformer,various,self-attention,long-range modeling,high compute cost
+Vision-language,weakly-supervised;training-free,semantic alignment,open vocabulary and interpretability,prompt and foundation-model dependence

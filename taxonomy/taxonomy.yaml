@@ -1,0 +1,17 @@
+supervision:
+  - supervised
+  - semi_supervised
+  - weakly_supervised
+  - self_supervised
+  - unsupervised
+  - training_free
+architectures:
+  - cnn
+  - rnn
+  - autoencoder
+  - gan
+  - transformer
+  - graph
+  - multimodal
+  - vision_language
+  - llm_assisted

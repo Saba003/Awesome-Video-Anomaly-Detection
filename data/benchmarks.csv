@@ -1,0 +1,9 @@
+paper_id,dataset,metric,value,level,protocol,source
+memae_2019,UCSD Ped2,AUC,94.1,frame-level,official,paper
+memae_2019,Avenue,AUC,83.3,frame-level,official,paper
+memae_2019,ShanghaiTech,AUC,71.2,frame-level,official,paper
+mnad_2020,UCSD Ped2,AUC,97.0,frame-level,official,paper
+mnad_2020,Avenue,AUC,88.5,frame-level,official,paper
+vadclip_2024,UCF-Crime,AUC,88.02,frame-level,official,paper
+vadclip_2024,XD-Violence,AUC,81.85,frame-level,official,paper
+lavad_2024,UCF-Crime,AUC,78.4,frame-level,training-free,paper

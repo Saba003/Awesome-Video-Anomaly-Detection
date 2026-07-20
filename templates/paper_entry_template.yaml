@@ -1,0 +1,16 @@
+id: unique_id_year
+title: ""
+authors: ""
+year: 2026
+venue: ""
+doi: ""
+paper_url: ""
+code_url: ""
+supervision: []
+architecture: []
+datasets: []
+metrics: []
+explainable: "no"
+open_vocabulary: false
+training_free: false
+notes: ""

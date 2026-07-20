@@ -1,0 +1,8 @@
+metric,category,higher_is_better,description,caution
+AUC,classification,yes,Area under the ROC curve,Can hide temporal inconsistency and operational false alarms
+AP,classification,yes,Average precision,Sensitive to class prevalence
+F1,classification,yes,Harmonic mean of precision and recall,Threshold-dependent
+t-IoU,temporal localization,yes,Overlap between predicted and true temporal intervals,Requires temporal annotations
+RBDC,spatial localization,yes,Region-based detection criterion,Protocol-specific
+FPS,deployment,yes,Processed frames per second,Hardware-dependent
+Latency,deployment,no,Time per prediction,Must report hardware and batch size
