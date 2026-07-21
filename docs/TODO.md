@@ -1,4 +1,8 @@
 ## TODO list
 
-[x] Added Docs
-[ ] Update Repo
+1. ADD Models
+   - [ ] AE
+   - [ ] VAE
+   - [x] VAE-GAN
+   - [ ] GAN
+   - [ ] VitVAEGAN
