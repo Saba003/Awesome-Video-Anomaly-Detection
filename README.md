@@ -12,6 +12,12 @@ Official companion repository for the review:
 
 > **From Reconstruction to Reasoning: The Evolution of Deep Learning Architectures for Video Anomaly Detection**
 
+<p align="center">
+  <img src="figures/VAD_Review_Banner.png"
+       alt="Awesome Video Anomaly Detection — From Reconstruction to Reasoning"
+       width="80%">
+</p>
+
 The manuscript is currently under review/preparation. Its public preprint and publication links will be added here when available.
 
 This repository provides a curated and reproducible resource for deep learning-based video anomaly detection (VAD), including paper metadata, benchmark results, dataset summaries, taxonomies, systematic-review material, deployment guidance, and analysis scripts.
