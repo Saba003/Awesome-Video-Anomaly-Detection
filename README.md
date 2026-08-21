@@ -1,8 +1,10 @@
-# Deep Learning for Video Anomaly Detection
+# Awesome Video Anomaly Detection
 
 Official companion repository for the review:
 
-> **Deep Learning for Video Anomaly Detection: Architectures, Datasets, Challenges, and Emerging Paradigms**
+> **From Reconstruction to Reasoning: The Evolution of Deep Learning Architectures for Video Anomaly Detection**
+
+The manuscript is currently under review/preparation. Its public preprint and publication links will be added here when available.
 
 This repository provides a curated and reproducible resource for deep learning-based video anomaly detection (VAD), including paper metadata, benchmark results, dataset summaries, taxonomies, systematic-review material, deployment guidance, and analysis scripts.
 
@@ -64,7 +66,11 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md). You may propose:
 
 ## Citation
 
-See [CITATION.cff](CITATION.cff) and [paper/citation.bib](paper/citation.bib).
+If this repository, its curated records, or its taxonomies support your work, please cite the companion review. Citation metadata is available in [CITATION.cff](CITATION.cff), and a ready-to-use BibTeX entry is provided in [paper/citation.bib](paper/citation.bib). Please update the entry from the public preprint or publisher page once the paper is published.
+
+## Relationship to the paper
+
+This repository is the living companion resource for the review. It provides the structured records, review protocol, taxonomies, extended documentation, and practitioner guidance underlying and extending the manuscript. Because the repository may evolve after publication, use a tagged release or archived DOI when citing a fixed version.
 
 ## License
 

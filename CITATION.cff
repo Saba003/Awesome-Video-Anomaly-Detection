@@ -1,13 +1,32 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite our survey."
-title: "Deep Learning for Video Anomaly Detection: Survey Resources"
+message: "If you use this repository, its curated data, or its taxonomies, please cite the companion review."
+title: "Companion Resources for From Reconstruction to Reasoning: The Evolution of Deep Learning Architectures for Video Anomaly Detection"
 type: dataset
 authors:
   - family-names: Ramzan
     given-names: Saba
-  - family-names: Muhammad
-    given-names: Rashid
-  - family-names: Hakim
-    given-names: Ziani
+  - family-names: Arslan
+    given-names: Farrukh
+  - family-names: Rashid
+    given-names: Muhammad
+  - family-names: Ziani
+    given-names: Abdelhakim
+  - family-names: AlQahtani
+    given-names: Salman A.
 repository-code: "https://github.com/Saba003/Awesome-Video-Anomaly-Detection"
 license: MIT
+preferred-citation:
+  type: article
+  title: "From Reconstruction to Reasoning: The Evolution of Deep Learning Architectures for Video Anomaly Detection"
+  authors:
+    - family-names: Ramzan
+      given-names: Saba
+    - family-names: Arslan
+      given-names: Farrukh
+    - family-names: Rashid
+      given-names: Muhammad
+    - family-names: Ziani
+      given-names: Abdelhakim
+    - family-names: AlQahtani
+      given-names: Salman A.
+  year: 2026
