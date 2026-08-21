@@ -1,5 +1,13 @@
 # Awesome Video Anomaly Detection
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22048356.svg)](https://doi.org/10.5281/zenodo.22048356)
+[![GitHub release](https://img.shields.io/github/v/release/Saba003/Awesome-Video-Anomaly-Detection?style=flat-square&logo=github)](https://github.com/Saba003/Awesome-Video-Anomaly-Detection/releases/latest)
+[![License: MIT](https://img.shields.io/github/license/Saba003/Awesome-Video-Anomaly-Detection?style=flat-square)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Saba003/Awesome-Video-Anomaly-Detection?style=flat-square&logo=github)](https://github.com/Saba003/Awesome-Video-Anomaly-Detection/stargazers)
+[![Contributors](https://img.shields.io/github/contributors/Saba003/Awesome-Video-Anomaly-Detection?style=flat-square)](https://github.com/Saba003/Awesome-Video-Anomaly-Detection/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/Saba003/Awesome-Video-Anomaly-Detection?style=flat-square)](https://github.com/Saba003/Awesome-Video-Anomaly-Detection/issues)
+[![Last commit](https://img.shields.io/github/last-commit/Saba003/Awesome-Video-Anomaly-Detection?style=flat-square)](https://github.com/Saba003/Awesome-Video-Anomaly-Detection/commits/main)
+
 Official companion repository for the review:
 
 > **From Reconstruction to Reasoning: The Evolution of Deep Learning Architectures for Video Anomaly Detection**
@@ -75,3 +83,13 @@ This repository is the living companion resource for the review. It provides the
 ## License
 
 Code is released under the MIT License. Curated tables and documentation may be reused with attribution. The manuscript remains subject to the final publisher policy.
+
+## Contributors
+
+We gratefully acknowledge everyone who has contributed to the development and maintenance of this resource.
+
+<a href="https://github.com/Saba003/Awesome-Video-Anomaly-Detection/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Saba003/Awesome-Video-Anomaly-Detection" alt="Repository contributors" />
+</a>
+
+Contributions of all kinds are welcome. Please see our [contribution guidelines](CONTRIBUTING.md) to report missing papers, add datasets, correct benchmark results, or improve the documentation.
