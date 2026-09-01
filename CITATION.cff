@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-08-21"
 message: "If you use this repository, its curated data, or its taxonomies, please cite the companion review."
 title: "Companion Resources for From Reconstruction to Reasoning: The Evolution of Deep Learning Architectures for Video Anomaly Detection"
