@@ -13,6 +13,8 @@ authors:
     given-names: Muhammad
   - family-names: Ziani
     given-names: Abdelhakim
+  - family-names: Kadry
+    given-names: Seifedine
   - family-names: AlQahtani
     given-names: Salman A.
 repository-code: "https://github.com/Saba003/Awesome-Video-Anomaly-Detection"
@@ -29,6 +31,8 @@ preferred-citation:
       given-names: Muhammad
     - family-names: Ziani
       given-names: Abdelhakim
+    - family-names: Kadry
+      given-names: Seifedine
     - family-names: AlQahtani
       given-names: Salman A.
   year: 2026
