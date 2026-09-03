@@ -1,6 +1,6 @@
 # Awesome Video Anomaly Detection
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22048356.svg)](https://doi.org/10.5281/zenodo.22048356)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22230731.svg)](https://doi.org/10.5281/zenodo.22230731)
 [![GitHub release](https://img.shields.io/github/v/release/Saba003/Awesome-Video-Anomaly-Detection?style=flat-square&logo=github)](https://github.com/Saba003/Awesome-Video-Anomaly-Detection/releases/latest)
 [![License: MIT](https://img.shields.io/github/license/Saba003/Awesome-Video-Anomaly-Detection?style=flat-square)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Saba003/Awesome-Video-Anomaly-Detection?style=flat-square&logo=github)](https://github.com/Saba003/Awesome-Video-Anomaly-Detection/stargazers)
